@@ -1,42 +1,50 @@
 h1{
-	padding-left: 25px;
-	padding-right: 650px;
-	padding-top: 125px;
+	padding-left: 1050px;
+    padding-top: 160px;
+	padding-right: 50px;
 	color: white;
-	padding-top: 25px;
-	font-size: 63px;
-	text-align: left;
+	text-align: right;
 	font-family: 'Roboto Mono', monospace;
 	text-shadow:0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1)
 
 }
 
-label{
-	padding: 25px;
-}
-
-nav{
-	padding: 0px;
-}
 
 #yo{
-	padding-left: 25px;
-	padding-right: 1050px;
+	padding-left: 550px;
+	padding-right: 25px;
 	color: white;
-	text-align: left;
+	text-align: right;
 	font-size: 22px;
 	font-family: 'Roboto Condensed', monospace;
 	text-shadow:0px 4px 3px rgba(0,0,0,0.1), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1)
 }
 
+#ora, #ore{
+	text-align: center;
+	font-family: 'Roboto Condensed', monospace;
+	padding-top: 25px;+
+}
+
 #text{
-	background: url(https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F06%2Frex-orange-county-randy-newman-link-up-on-youve-got-a-friend-in-me-remake-0.jpg?q=75&w=800&cbr=1&fit=max);
+	background: url(http://larecord.com/larwp/wp-content/gallery/feb2018_rex-orange-county_elrey/Rex_Orange_County-4.jpg);
     background-size: cover;
     background-position: center;
     font-family: 'Roboto Condensed', monospace;
     outline-color: black;
     outline-width: 25px;
-	height:90%;
+	height:110%;
 	width:100%;
+}
+
+#nav{
+font-family: 'Roboto Condensed', monospace;'
+}
+
+img{
+	height: 150px;
+}
+#vid{
+	padding-top: 25px;
 }
 
