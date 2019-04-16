@@ -1,0 +1,56 @@
+h1{
+	padding-left: 25px;
+	padding-right: 650px;
+	color: black;
+	padding-top: 25px;
+	font-size: 63px;
+	text-align: left;
+	font-family: 'Roboto Mono', monospace;
+	text-shadow:0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1)
+
+}
+
+label{
+	padding: 25px;
+}
+
+nav{
+	padding: 0px;
+}
+
+#yo{
+	padding-left: 25px;
+	padding-right: 450px;
+	color: black;
+	text-align: left;
+	font-size: 22px;
+	font-family: 'Roboto Condensed', monospace;
+	text-shadow:0px 4px 3px rgba(0,0,0,0.1), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1)
+}
+
+#ora, #ore{
+	text-align: center;
+	font-family: 'Roboto Condensed', monospace;
+	padding-top: 25px;+
+}
+
+form{
+	background: url(https://images.unsplash.com/photo-1518600654093-2a24cddafa38?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=96238af4ac6e58d17d362d5b8b846eb4&auto=format&fit=crop&w=817&q=80);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto Condensed', monospace;
+    outline-color: black;
+    outline-width: 25px;
+	height:100%;
+	width:100%;
+	
+}
+
+button{
+	padding-left: 25px;
+}
+
+#nav{
+font-family: 'Roboto Condensed', monospace;'
+}
+

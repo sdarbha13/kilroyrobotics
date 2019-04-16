@@ -1,0 +1,50 @@
+h1{
+	padding-left: 1050px;
+    padding-top: 160px;
+	padding-right: 50px;
+	color: gray;
+	text-align: right;
+	font-family: 'Roboto Mono', monospace;
+	text-shadow:0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1)
+
+}
+
+
+#yo{
+	padding-left: 550px;
+	padding-right: 25px;
+	color: black;
+	text-align: right;
+	font-size: 22px;
+	font-family: 'Roboto Condensed', monospace;
+	text-shadow:0px 4px 3px rgba(0,0,0,0.1), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1)
+}
+
+#ora, #ore{
+	text-align: center;
+	font-family: 'Roboto Condensed', monospace;
+	padding-top: 25px;+
+}
+
+#text{
+	background: url(https://images.unsplash.com/photo-1484503566934-9c106112488a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b0b7136afccef0c475767203cb2285dd&auto=format&fit=crop&w=751&q=80S);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto Condensed', monospace;
+    outline-color: black;
+    outline-width: 25px;
+	height:110%;
+	width:100%;
+}
+
+#nav{
+font-family: 'Roboto Condensed', monospace;'
+}
+
+#pics{
+	font-size: 50px;
+}
+#vid{
+	padding-top: 25px;
+}
+
